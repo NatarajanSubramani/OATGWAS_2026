@@ -10,3 +10,4 @@ This repository contains data supporting the manuscript:
 - data/glasshouse: Glasshouse toxin data
 - data/gwas: SNP genotype matrix, marker positions, and genotype mapping
 
+Values ≤20 µg kg⁻¹ correspond to the assay detection limit.
